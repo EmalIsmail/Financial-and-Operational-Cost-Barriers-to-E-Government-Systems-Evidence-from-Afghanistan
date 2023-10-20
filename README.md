@@ -1,0 +1,2 @@
+# Financial-and-Operational-Cost-Barriers-to-E-Government-Systems-Evidence-from-Afghanistan
+Specifically, for the analysis, imputation, and visualization of desired variables, Pandas, Numpy, Scikit-Learn, Matplotlib, and Seaborn Python libraries have been used. The inferential analysis used the Spearman Rank correlation, a Python programming language built-in correlation (corr) function's Spearman method is performed.
